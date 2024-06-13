@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d87a455.css",
+    "main.js": "/static/js/main.fa974959.js",
+    "static/js/453.40063271.chunk.js": "/static/js/453.40063271.chunk.js",
+    "static/media/couplego.JPG": "/static/media/couplego.766088cacd261ee8d67b.JPG",
+    "static/media/2nd.JPG": "/static/media/2nd.b6dd6223315563e88290.JPG",
+    "static/media/1st.JPG": "/static/media/1st.c5a26ba2c2daa83a2d99.JPG",
+    "static/media/mehandi.jpg": "/static/media/mehandi.0c0cf609971b7a9c3a82.jpg",
+    "static/media/wedding.jpg": "/static/media/wedding.5721ea82dcfed4cc7ca1.jpg",
+    "static/media/haldi.jpg": "/static/media/haldi.6092c50e0479e685e68d.jpg",
+    "static/media/couple-man.svg": "/static/media/couple-man.4ea6e9788611999c5d43856a65586815.svg",
+    "static/media/couple-women.svg": "/static/media/couple-women.f725959ec862ac5a3b05822d53381ad4.svg",
+    "static/media/couple-flower.png": "/static/media/couple-flower.ba78f524881f943f67cc.png",
+    "static/media/ganesh.png": "/static/media/ganesh.8506f83caecc944d7c7a.png",
+    "static/media/flower.jpg": "/static/media/flower.e9c0f00ecf0884b631f7.jpg",
+    "index.html": "/index.html",
+    "main.6d87a455.css.map": "/static/css/main.6d87a455.css.map",
+    "main.fa974959.js.map": "/static/js/main.fa974959.js.map",
+    "453.40063271.chunk.js.map": "/static/js/453.40063271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d87a455.css",
+    "static/js/main.fa974959.js"
+  ]
+}
